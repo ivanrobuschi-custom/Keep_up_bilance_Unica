@@ -10,6 +10,8 @@ categoria: software KeepUp Smart
 
 Una soluzione integrata tra la app **KeepUp Smart** e la famiglia di **bilance Unica**.
 
+![KeepUp Smart sui dispositivi di cassa](assets/images/kus-dispositivi.png)
+
 Un sistema efficiente che semplifica drasticamente la gestione delle **anagrafiche dei prodotti** per tutte le attività che utilizzano bilance, e delle vendite quando stampano **scontrini cumulativi con più pesate**.
 
 È un *must-have* per **panetterie, forni, pasticcerie, salumerie/formaggi, pescherie, macellerie, gastronomie** e negozi di **prodotti ortofrutticoli**.

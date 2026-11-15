@@ -10,9 +10,11 @@ categoria: software KeepUp Smart
 
 Questo corso presenta la soluzione integrata tra la app di cassa **KeepUp Smart** e la famiglia di bilance **Unica**: un sistema che semplifica la gestione delle anagrafiche dei prodotti per tutte le attività che utilizzano bilance, e delle vendite quando le bilance stampano scontrini cumulativi con più pesate.
 
-![Dalla bilancia alla cassa con un solo QR Code](assets/images/schema-flusso-qrcode.png)
+![KeepUp Smart sui dispositivi di cassa](assets/images/kus-dispositivi.png)
 
 ## I due flussi della soluzione
+
+![Dalla bilancia alla cassa con un solo QR Code](assets/images/schema-flusso-qrcode.png)
 
 | Flusso | Cosa fa | Come avviene |
 |--------|---------|--------------|
